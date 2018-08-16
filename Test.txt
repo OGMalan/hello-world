@@ -1,1 +1,2 @@
-Hello World is a shit program
+Hello World is a great program
+
